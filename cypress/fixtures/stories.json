@@ -5,15 +5,15 @@
             "url": "https://example.com/1",
             "author": "Author 1",
             "num_comments": 34,
-            "pints": 91,
+            "points": 91,
             "objectID": 0
         },
         {
             "title": "Sample 2", 
             "url": "https://example.com/2",
             "author": "Author 2",
-            "num_comments": 34,
-            "pints": 91,
+            "num_comments": 31,
+            "points": 90,
             "objectID": 1
         }
     ]
